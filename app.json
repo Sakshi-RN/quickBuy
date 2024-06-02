@@ -1,36 +1,35 @@
 {
   "expo": {
-    "name": "native-farm-app",
-    "slug": "native-farm-app",
+    "name": "Quick Buy",
+    "slug": "quick-buy-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./app/assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./app/assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.nativefarms.ios"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./app/assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.farooquedev24.nativefarmapp"
+      "package": "com.sakshi_rn_dev.quickbuyapp"
     },
     "web": {
       "favicon": "./app/assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "24faf447-462a-4dfd-855b-f03c8b19c0e0"
+        "projectId": "66a034a6-e02b-456e-9475-9beed70fa1d1"
       }
     }
   }

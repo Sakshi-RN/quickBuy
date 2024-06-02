@@ -1,6 +1,6 @@
 export const GlobalColors = {
   primaryBackground: "#FFC194",
-  primaryColor: "#144F2A",
+  primaryColor: "#0A0908",
   primaryText: "#FFB37C",
   primaryWhite: "#ffffff",
   primaryBlue: "#0079FF",
@@ -28,5 +28,5 @@ export const GlobalColors = {
   secondaryBlack: "#121212",
   primaryYellow: "#FDFBBE",
   primaryYellow200: "#A69600",
-  secondaryColor: "#FBCE05",
+  secondaryColor: "#0A0908",
 };

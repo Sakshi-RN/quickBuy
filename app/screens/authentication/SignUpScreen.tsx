@@ -93,7 +93,7 @@ const SignUpScreen = () => {
         style={[
           {
             width: "100%",
-            backgroundColor: GlobalColors.primaryColor + "60",
+            backgroundColor: GlobalColors.secondaryColor + "60",
             paddingVertical: 10,
             justifyContent: "center",
             alignItems: "center",

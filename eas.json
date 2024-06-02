@@ -1,6 +1,6 @@
 {
   "cli": {
-    "version": ">= 7.8.3"
+    "version": ">= 9.0.2"
   },
   "build": {
     "development": {
@@ -13,8 +13,8 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_PUBLIC_DEV_API_URL": "http://192.168.1.5:8000",
-        "EXPO_PUBLIC_DEV_RAZAORPAY_KID": "rzp_test_wZAJM8QukT53KE"
+        "EXPO_PUBLIC_API_URL": "https://native-farm-server.onrender.com",
+        "EXPO_PUBLIC_RAZAORPAY_KID": "rzp_test_wZAJM8QukT53KE"
       }
     },
     "preview": {
@@ -23,8 +23,8 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_PUBLIC_DEV_API_URL": "https://stageapi.nativefarmers.co.in",
-        "EXPO_PUBLIC_DEV_RAZAORPAY_KID": "rzp_test_wZAJM8QukT53KE"
+        "EXPO_PUBLIC_API_URL": "https://native-farm-server.onrender.com",
+        "EXPO_PUBLIC_RAZAORPAY_KID": "rzp_test_wZAJM8QukT53KE"
       }
     },
     "production": {}
